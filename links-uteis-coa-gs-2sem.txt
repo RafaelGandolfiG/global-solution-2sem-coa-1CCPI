@@ -1,0 +1,10 @@
+Integrantes:
+1 - Rafael Gandolfi Gonçalves - 569036 - 1CCPI
+2 - Guilherme Miranda - 573107 - 1CCPI
+3 - Carlos Eduardo - 572949 - 1CCPI
+
+Link Wokwi:
+https://wokwi.com/projects/479712844167178241
+
+Link ThingSpeak:
+https://thingspeak.mathworks.com/channels/3564819
